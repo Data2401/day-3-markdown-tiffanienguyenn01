@@ -1,6 +1,6 @@
 ---
 title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+author: "Thu Nguyen"
 date: "Data 2401"
 output: html_document
 ---
@@ -35,3 +35,28 @@ Note that you can click "Knit" as you go along to see what the final results are
 
 **Once you're done, remember to commit the changes and push the repo back to your assignment on GitHub!**
  
+# Your work here
+
+## Wise Words
+"Someday, everything will make perfect sense. So for now, laugh at the confusion, smile through the tears, be strong and keep reminding yourself that everything happens for a reason." - John Mayer
+
+[Quote Link](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DcLWXfS9B4Dc&ved=2ahUKEwiFtIqjuYyLAxVe38kDHeUoJ5kQtwJ6BAg1EAI&usg=AOvVaw2gY_2WaCsnbZ6x2_l_8pGi)
+
+## My semester
+|__Course Number__|_Course Name_|Instructor Name|
+|:----------------|:------------|:--------------|
+|__DATA 2401__|_Data Science_|Dr.Katherine Shoemaker|
+|__PSY 3313__|_Biological Psychology_|Dr.Kristen Capuozzo|
+|__SOS 3312__|_Applied Statistics in the Social Science_|Dr.Richard Smalley|
+|__STAT 4310__|_Applied Regression_|Dr.Ha Nguyen|
+|__TCOM 3302__|_Business and Technical Writing_|Dr. Wayne Schmadeka|
+
+## I recommend
+### Wave to Earth
+```
+How could my day be bad when I'm with you? You're the only one who makes me laugh, so how can my day be bad? It's a day for you.
+```
+- Love
+- Seasons
+- Bad
+- Peach eyes
